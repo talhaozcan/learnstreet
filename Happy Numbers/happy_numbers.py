@@ -1,3 +1,5 @@
+'''ahmet'''
+'''learnstreet happynum'''
 def happynum(num):
     while True:
         if len(str(num)) != 1:          
